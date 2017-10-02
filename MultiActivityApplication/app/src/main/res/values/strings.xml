@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiActivity Application</string>
+    <string name="send_message">SEND MESSAGE</string>
+    <string name="receiver_activity">Message Receiver</string>
+</resources>
